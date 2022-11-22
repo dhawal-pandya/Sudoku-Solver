@@ -1,70 +1,55 @@
-# Getting Started with Create React App
+# Sudoku-Solver
+> A Sudoku Solver which uses back-tracking to solve sudoku puzzles
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![Sudoku-Solver](https://github.com/dhawal-pandya/Sudoku-Solver/blob/gh-pages/assets/sudoku.png)
 
-## Available Scripts
+## Built With
 
-In the project directory, you can run:
+- React
+- CSS
+- VS Code
 
-### `npm start`
+## Deployment
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- [View Deployment](https://dhawal-pandya.github.io/Sudoku-Solver/)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+# Getting Started
 
-### `npm test`
+## Prerequisites:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Create an account on github
 
-### `npm run build`
+- Install gitbash or use git on the command line.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Use an IDE of your preference such as VScode.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Steps to follow:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- Choose a folder in your local machine where you want this repository to be copied
 
-### `npm run eject`
+- Clone this [repository](https://github.com/dhawal-pandya/Sudoku-Solver) to your local machine
+- ```
+  git clone git@github.com:dhawal-pandya/Sudoku-Solver---react.git
+  ```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Navigate to `cd Sudoku-Solver` directory.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- To install all the app dependencies on the command line run
+- ```
+  npm install
+  ```
+- To run app in the development mode run
+- ```
+  npm start
+  ```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Author
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+**Dhawal Pandya**
 
-## Learn More
+- [GitHub](https://github.com/dhawal-pandya)
+- [LinkedIn](https://www.linkedin.com/in/dhawal-pandya/)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Show your support
 
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Give a ⭐ if you like this project!
