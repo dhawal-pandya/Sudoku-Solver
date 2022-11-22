@@ -1,0 +1,25 @@
+.Title {
+  position: absolute;
+  top: 2vh;
+}
+
+.button {
+  position: absolute;
+  display: flex;
+  justify-content: space-evenly;
+  top: 90vh;
+  height: 5vh;
+  width: 15vh;
+}
+
+.button > div {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  background-color: var(--secColor);
+  border-radius: 2px;
+  padding: 0 6vh;
+  color: var(--priColor);
+  font-weight: 900;
+  margin: 0 5vw;
+}

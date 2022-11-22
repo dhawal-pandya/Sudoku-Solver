@@ -1,0 +1,48 @@
+:root {
+  --priColor: #371f5e;
+  --secColor: #caf6d7;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Montserrat');
+
+.App {
+  text-align: center;
+  font-family: 'Montserrat';
+}
+
+.App-header {
+  background-color: var(--priColor);
+  min-height: 97vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: var(--secColor);
+}
+
+.button {
+  position: absolute;
+  display: flex;
+  justify-content: space-evenly;
+  top: 80vh;
+  height: 5vh;
+  width: 15vh;
+}
+
+.button > div {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  background-color: var(--secColor);
+  border-radius: 2px;
+  padding: 0 6vh;
+  color: var(--priColor);
+  font-weight: 900;
+  margin: 0 5vw;
+}
+
+.board {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
+}
