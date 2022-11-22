@@ -1,7 +1,7 @@
 # Sudoku-Solver
 > A Sudoku Solver which uses back-tracking to solve sudoku puzzles
 
-![Sudoku-Solver](https://github.com/dhawal-pandya/Pokedex/blob/master/pokedex.png)
+![Sudoku-Solver](https://github.com/dhawal-pandya/Sudoku-Solver/blob/gh-pages/assets/sudoku.png)
 
 ## Built With
 
