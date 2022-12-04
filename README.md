@@ -7,7 +7,6 @@ A Sudoku Solver which uses back-tracking to solve sudoku puzzles
 ## Built With
 
 - React
-- Python
 - VS Code
 
 ## Deployment
